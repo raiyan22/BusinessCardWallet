@@ -5,7 +5,9 @@ import java.io.*;
 public class MyClassOne {
     private int x = 0;
     private int y = 9;
-    int f = 88;
+
+    String g = "conflict fixed";
+
 
     public int getX() {
         return x;
